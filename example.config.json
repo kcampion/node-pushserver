@@ -1,4 +1,5 @@
 {
+    "secure": false,
     "webPort": 8000,
 
     "mongodbUrl": "mongodb://username:password@localhost/database",
