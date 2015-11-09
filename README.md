@@ -36,6 +36,7 @@ If you checked out this project from github, you can find a configuration file e
 
 ```js
 {
+	"secure": false,
 	"webPort": 8000,
 
     "mongodbUrl": "mongodb://username:password@localhost/database",
